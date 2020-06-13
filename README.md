@@ -4,9 +4,10 @@ A home media server to stream content such as videos, pictures and music through
 
 # Requirements
 - Tested on Raspberry Pi 3b+.
+- NTFS formatted USB drive.
 - Latest version Raspbian OS Lite (headless mode).
 - Apache server.
 - MiniDLNA.
-- NTFS formatted USB drive.
+- qBittorrent.
 
 # Installation
